@@ -1,0 +1,12 @@
+ok so point of this program was to sorta create a way of simulating turn flow in edh    
+    games played between my roommates and i using different decks
+
+this should be a collection of files
+
+
+file outline:
+gen: manages program flow - what are game actions and states
+    each game is initialized by four decks being chosen and imported, 
+
+each deck has been ammortizxed to approximations of what the deck does 
+    resources to be used and roles that decks would have
